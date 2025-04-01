@@ -28,7 +28,7 @@
 ---
 
 ### 📈 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahsammalik&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahsammalik&count_private=true&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsammalik&layout=compact&theme=radical)  
 
 ---
