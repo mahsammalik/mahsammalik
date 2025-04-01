@@ -34,9 +34,8 @@
 ---
 
 ### 🌐 **Find Me On**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mahsam-iftikhar)  
-- 📝 [Portfolio](https://mahsamiftikhar.dev)  
-- 🐦 [Twitter](https://twitter.com/mahsam_iftikhar)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/malik-mahsam-awan/)  
+- 📝 [Portfolio](https://mahsammalik.github.io/independent-contributor/) 
 
 ---
 
